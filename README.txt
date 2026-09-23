@@ -1,3 +1,4 @@
+Tecnologías: Lenguaje C (estándar C99) y compilador GCC
 Para el correcto uso del programa, siga estas indicaciones:
 
 Asegúrese de tener en la misma carpeta los siguientes archivos:
